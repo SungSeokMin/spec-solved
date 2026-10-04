@@ -1,12 +1,12 @@
 {
   "name": "spec-solved",
-  "description": "spec-solved: requirement → clarified, planned, implemented, and verified solution.",
+  "description": "spec-solved: requirement → clarified decisions, a clear solution, verification criteria, and an execution prompt for any coding tool.",
   "owner": { "name": "sungseokmin", "url": "https://github.com/sungseokmin" },
   "plugins": [
     {
       "name": "spec-solved",
       "source": "./",
-      "description": "Turns any requirement into a verified solution, recorded in Solution.md."
+      "description": "Turns any requirement into a solution guide and execution prompt, recorded in Solution.md."
     }
   ]
 }

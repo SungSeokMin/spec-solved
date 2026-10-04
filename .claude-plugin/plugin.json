@@ -1,7 +1,7 @@
 {
   "name": "spec-solved",
-  "version": "0.1.1",
-  "description": "Turns any requirement into a verified solution: Explore → Brainstorm → Plan → Implement → Verify, recorded in Solution.md.",
+  "version": "0.2.0",
+  "description": "Turns any requirement into a clear solution guide and a ready-to-paste execution prompt for any coding tool, without editing your code. Explore → Brainstorm → Plan → Solve → Verify, recorded in Solution.md.",
   "author": { "name": "sungseokmin", "url": "https://github.com/sungseokmin" },
   "homepage": "https://github.com/sungseokmin/spec-solved",
   "repository": "https://github.com/sungseokmin/spec-solved",
